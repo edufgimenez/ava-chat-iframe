@@ -24,7 +24,7 @@
     var chatContainer = document.createElement("div")
 
     // Defina os atributos do iframe
-    chatFrame.setAttribute("src", "https://eadtec.cps.sp.gov.br/bate_papo/index.php?status=logado&id_chat=0");
+    chatFrame.setAttribute("src", "https://eadtec.cps.sp.gov.br/bate_papo/index.php");
     chatFrame.setAttribute("width", "50%");
     chatFrame.setAttribute("height", "500px");
     chatFrame.style.position = '';
